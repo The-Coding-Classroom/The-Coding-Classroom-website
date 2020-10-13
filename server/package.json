@@ -1,0 +1,19 @@
+{
+  "name": "the-coding-classroom-website",
+  "version": "1.0.0",
+  "description": "A website for The Coding Classroom",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Martti Bergström",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "volleyball": "^1.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
