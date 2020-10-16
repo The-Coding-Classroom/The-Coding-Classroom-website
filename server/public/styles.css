@@ -34,8 +34,8 @@ footer {
 }
 
 footer h1 {
-  margin-bottom: 0.5em;
-  font-size: 35px;
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
 }
 
 a {
@@ -44,8 +44,22 @@ a {
 }
 
 .content-item h1 {
-  font-size: 45px;
-  margin-bottom: 10px;
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.content-item {
+  font-size: 1.25rem;
+}
+
+.medium {
+  font-size: 1.75rem;
+  margin-bottom: 0.25rem;
+  color: #b4b4b4;
+}
+
+.small {
+  color: #969696;
 }
 
 .follow {
